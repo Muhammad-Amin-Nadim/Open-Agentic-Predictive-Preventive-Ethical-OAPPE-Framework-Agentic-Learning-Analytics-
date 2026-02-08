@@ -1,5 +1,5 @@
 
-The authors acknowledge the support of the Mini-Funding& Mentorship Program of the 8th International Conference on Activity and Behavior Computing (ABC Japan 2026), in conjunction with Persuasive 2026, and express their gratitude
+The authors acknowledge the support of the Mini-Funding& Mentorship Program of the 8th International Conference on Activity and Behavior Computing (ABC Japan 2026), in conjunction with Persuasive 2026[https://autocare.ai/abc2026], and express their gratitude
 to Rosula Reyes, Office of Academic Affairs, Adamson University, Manila, for her valuable mentorship. The authors thank the teams behind the Predict Students’ Dropout and Academic Success dataset [69] and the Open University Learning 
 Analytics Dataset (OULAD) [70], both hosted at the UCI Machine Learning Repository.
 
